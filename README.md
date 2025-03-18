@@ -4,6 +4,10 @@
 
 This project implements a Network Intrusion Detection System (IDS) which is a hybrid of Signature and Anomaly to monitor and analyze network traffic for detecting potential attacks. It involves setting up attacker and victim environments, deploying IDS rules, integrating with Machine Learning and evaluating the system's performance.
 
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/398d6d1d-58ec-4fdf-b3ea-2a0bf3d78eae)
+
 ## Environment Setup
 
 ### Attacker's Environment
