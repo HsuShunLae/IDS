@@ -1,0 +1,5 @@
+Flag,Duration,protocol,src_ip,src_port,dst_ip,dst_port,Predicted_Value,Real_Value
+None,307759,,,0,,0,BENIGN
+None,1433398,,,0,,0,BENIGN
+[<Flag 24 (PA)>],7438,TCP,172.64.146.215,443,10.7.14.49,45241,BENIGN
+[<Flag 24 (PA)>],7543,TCP,172.64.146.215,443,10.7.14.49,45241,BENIGN
