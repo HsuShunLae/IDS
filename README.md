@@ -41,11 +41,17 @@ Required Packages: Installed necessary Python libraries for the IDS implementati
 ## Proposed Intercepted Attacks
 
 ✓ DoS/DDoS attacks 
+
 ✓ MITM (Man-in-the-Middle) attacks 
+
 ✓ SQL injection 
+
 ✓ XSS (Cross-Site Scripting) 
+
 ✓ Brute Force attacks 
+
 ✓ Anomalous Traffic Patterns 
+
 ✓ Zero-day attacks (which is expected) 
 
 ## Usage
