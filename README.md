@@ -10,19 +10,19 @@ This project implements a Network Intrusion Detection System (IDS) which is a hy
 
 A Kali Linux virtual machine is configured with various attack tools, including:
 
-DoS Hulk
+✓ DoS Hulk 
 
-DoS GoldenEye
+✓ DoS GoldenEye 
 
-DoS Ripper
+✓ DoS Ripper 
 
-DoS Slowloris
+✓ DoS Slowloris 
 
-hping3
+✓ hping3 
 
-bettercap
+✓ bettercap 
 
-Built-in attack tools
+✓ Built-in attack tools 
 
 ### Victim's Environment
 
